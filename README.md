@@ -33,7 +33,7 @@ Currently I am working for a big energy distribution company. There I am respons
 - ⚡ Fun fact: I hate warm wheather 🫠  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 
 
@@ -73,11 +73,11 @@ Currently I am working for a big energy distribution company. There I am respons
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr>
 
 
 
-</td><td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
