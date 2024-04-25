@@ -27,7 +27,7 @@ Currently I am working for a big energy distribution company. There I am respons
 - 🔭 I’m currently working on my home automation  
   
 
-- 🌱 I’m currently learning low level languages (Rust. C++, Go)  
+- 🌱 I’m currently working on my frontend skills  
   
 
 - ⚡ Fun fact: I hate warm wheather 🫠  
