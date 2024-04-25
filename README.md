@@ -24,10 +24,10 @@ Currently I am working for a big energy distribution company. There I am respons
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on my home automation  
+- 🔭 I’m currently working on MQTT in the industry 
   
 
-- 🌱 I’m currently working on my frontend skills  
+- 🌱 I’m currently learning some new frontend skills (design, sass, frameworks)
   
 
 - ⚡ Fun fact: I hate warm wheather 🫠  
